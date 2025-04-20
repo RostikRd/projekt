@@ -1,0 +1,29 @@
+Player | Position | Club (2022) | National Team | Goals
+Kylian Mbappé | Forward | Paris Saint-Germain | France | 8
+Lionel Messi | Forward | Paris Saint-Germain | Argentina | 7
+Julián Álvarez | Forward | Manchester City | Argentina | 4
+Olivier Giroud | Forward | AC Milan | France | 4
+Richarlison | Forward | Tottenham Hotspur | Brazil | 3
+Enner Valencia | Forward | Fenerbahçe | Ecuador | 3
+Marcus Rashford | Forward | Manchester United | England | 3
+Bukayo Saka | Forward | Arsenal | England | 3
+Cody Gakpo | Forward | PSV Eindhoven | Netherlands | 3
+Gonçalo Ramos | Forward | Benfica | Portugal | 3
+Álvaro Morata | Forward | Atlético Madrid | Spain | 3
+Neymar | Forward | Paris Saint-Germain | Brazil | 2
+Vincent Aboubakar | Forward | Al Nassr | Cameroon | 2
+Andrej Kramarić | Forward | Hoffenheim | Croatia | 2
+Niclas Füllkrug | Forward | Werder Bremen | Germany | 2
+Kai Havertz | Midfielder | Chelsea | Germany | 2
+Mohammed Kudus | Midfielder | Ajax | Ghana | 2
+Mehdi Taremi | Forward | FC Porto | Iran | 2
+Ritsu Dōan | Midfielder | SC Freiburg | Japan | 2
+Youssef En-Nesyri | Forward | Sevilla | Morocco | 2
+Breel Embolo | Forward | AS Monaco | Switzerland | 2
+Robert Lewandowski | Forward | FC Barcelona | Poland | 2
+Bruno Fernandes | Midfielder | Manchester United | Portugal | 2
+Rafael Leão | Forward | AC Milan | Portugal | 2
+Salem Al-Dawsari | Midfielder | Al-Hilal | Saudi Arabia | 2
+Aleksandar Mitrović | Forward | Fulham | Serbia | 2
+Ferran Torres | Forward | FC Barcelona | Spain | 2
+Cho Gue-sung | Forward | Jeonbuk Hyundai Motors | South Korea | 2

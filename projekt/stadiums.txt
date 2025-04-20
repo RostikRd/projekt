@@ -1,0 +1,9 @@
+Stadium Name | City | Country | Capacity
+Lusail Iconic Stadium | Lusail | Qatar | 88,966
+Al Bayt Stadium | Al Khor | Qatar | 68,895
+Khalifa International Stadium | Al Rayyan | Qatar | 45,857
+Ahmad bin Ali Stadium (Al Rayyan) | Al Rayyan | Qatar | 45,032
+Education City Stadium | Al Rayyan | Qatar | 44,667
+Al Thumama Stadium | Doha | Qatar | 44,400
+Stadium 974 (Ras Abu Aboud) | Doha | Qatar | 44,089
+Al Janoub Stadium | Al Wakrah | Qatar | 44,325

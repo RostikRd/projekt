@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIFA World Cup 2022</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="logo-container">
+            <img src="assets/fei_logo_vector.svg" alt="FEI Logo" class="logo">
+            <img src="assets/kemt_logo.png" alt="KEMT Logo" class="logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Dashboard</a></li>
+                <li><a href="teams.html">Teams</a></li>
+                <li><a href="players.html">Players</a></li>
+                <li><a href="stats.html">Statistics</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <div class="filters">
+            <form class="filter-form">
+                <div class="form-group">
+                    <label for="team">Team:</label>
+                    <input type="text" id="team" name="team">
+                </div>
+                <div class="form-group">
+                    <label for="stage">Stage:</label>
+                    <select id="stage" name="stage">
+                        <option value="">All Stages</option>
+                        <option value="Group Stage">Group Stage</option>
+                        <option value="Round of 16">Round of 16</option>
+                        <option value="Quarter-finals">Quarter-finals</option>
+                        <option value="Semi-finals">Semi-finals</option>
+                        <option value="Third Place">Third Place</option>
+                        <option value="Final">Final</option>
+                    </select>
+                </div>
+                <button type="button" class="btn" onclick="applyFilters()">Apply Filters</button>
+            </form>
+        </div>
+
+        <div class="matches-grid" id="matches-container">
+            <!-- Matches will be loaded here by JavaScript -->
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 FIFA World Cup 2022 Database - FEI KEMT</p>
+    </footer>
+
+    <script src="js/main.js"></script>
+    <script src="js/data.js"></script>
+</body>
+</html> 
